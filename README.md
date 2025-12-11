@@ -58,7 +58,7 @@ How to Run
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/Srinitha247/ML-assignment.git
 
 Navigate to the notebooks directory:
 
